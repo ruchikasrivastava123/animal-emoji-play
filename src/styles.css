@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  background-color: lightgreen;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: darkred;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: red;
+}
+span {
+  background-color: lightcoral;
+  font-size: 1.6rem;
+  padding: 0.3rem;
+  cursor: pointer;
+}
+h3 {
+  font-size: 15pt;
+  color: lightslategrey;
+}
